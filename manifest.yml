@@ -1,0 +1,7 @@
+
+---
+applications:
+- name: goodbad
+  random-route: true
+  parameters:
+    buildpack: 'python_buildpack'
