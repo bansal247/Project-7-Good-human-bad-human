@@ -1,0 +1,7 @@
+__pycache__/
+.git/
+.idea/
+main.py
+manifest.yml
+Procfile
+runtime.txt
